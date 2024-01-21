@@ -4,12 +4,14 @@ Hey there 👋
 I'm Mirlan, a passionate Computer Science Undergraduate with a love for coding, creating apps, managing projects and turning an idea to something ✨ _special_ ✨
 
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+
 📚 My Education 
 * Bachelor of Science, Computer Science
  * _California State University Long Beach_
 
 💻 Tech I work on
 I wield a diverse set of tools to create digital magic:
+
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
