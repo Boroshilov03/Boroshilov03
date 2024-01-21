@@ -3,8 +3,6 @@ Hey there 👋
 
 I'm Mirlan, a passionate Computer Science Undergraduate with a love for coding, creating apps, managing projects and turning an idea to something ✨ _special_ ✨
 
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-
 📚 My Education 
 * Bachelor of Science, Computer Science
  * _California State University Long Beach_
