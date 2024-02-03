@@ -5,7 +5,7 @@ I'm Mirlan, a passionate Computer Science Undergraduate with a love for coding, 
 
 📚 My Education 
 * Bachelor of Science, Computer Science
- ** _California State University Long Beach_
+ * _California State University Long Beach_
 
 💻 Tech I work on
 I wield a diverse set of tools to create digital magic:
