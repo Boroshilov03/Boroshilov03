@@ -22,4 +22,4 @@ Fun Fact: I love biking or playing chess!
 When I'm not coding or enhancing my skills, you'll find me travelling on my bike and playing chess.
 
 🪢 Let's Connect!
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/mirlan-boroshilov/) or check out my [Portfolio](https://mirlanportfolio.vercel.app/). Let's build something amazing together! We could also connect to meet up for a leisurely drive together.😅
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/mirlan-boroshilov/) or check out my [Portfolio](https://mirlanportfolio.vercel.app/). Let's build something amazing together!
