@@ -1,4 +1,6 @@
-![Header](./stars.gif)
+<p align="center">
+  <img src="./stars.gif" alt="Header" />
+</p>
 
 I'm Mirlan, a passionate Computer Science Undergraduate with a love for coding, creating apps, managing projects and turning an idea to something ✨ _special_ ✨
 
