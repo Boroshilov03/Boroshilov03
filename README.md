@@ -3,11 +3,10 @@
 </p>
 
 <h2 align="left">Hello! Welcome to my GitHub!</h2>
-<br />
-<h3>My name is Mirlan Boroshilov. I am a passionate Computer Science Undergraduate with a love for coding, creating apps, managing projects and turning an idea to something ✨special✨</h3>
+My name is Mirlan Boroshilov. I am a passionate Computer Science Undergraduate with a love for coding, creating apps, managing projects and turning an idea to something ✨special✨
 
 <h2 align="left">📚 My Education</h2>
-<h3></h3>Bachelor of Science, Computer Science - California State University Long Beach</h3>
+Bachelor of Science, Computer Science - California State University Long Beach
 
 <!--Languages and Tools Section-->       
 <h2 align="center">Tᴇᴄʜ sᴛᴀᴄᴋ</h2> 
