@@ -1,4 +1,4 @@
-![Header](./your-header-image-name(1).png)
+![Header](./github-banner.png)
 
 I'm Mirlan, a passionate Computer Science Undergraduate with a love for coding, creating apps, managing projects and turning an idea to something ✨ _special_ ✨
 
