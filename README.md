@@ -1,14 +1,11 @@
-<p align="center">
-  <img src="./nature.gif" alt="Header" />
-</p>
 
-<h3 align="left">About Me</h3>
-My name is Mirlan Boroshilov<br />
+<h3 align="left">Hello! Welcome to my GitHub!</h3>
+<h2>My name is Mirlan Boroshilov</h2><br />
 I am a passionate Computer Science Undergraduate with a love for coding, creating apps, managing projects and turning an idea to something ✨ _special_ ✨
 
 <h3 align="left">📚 My Education</h3>
 * Bachelor of Science, Computer Science
- * _California State University Long Beach_
+* _California State University Long Beach_
 
 <!--Languages and Tools Section-->       
 <h2 align="center">Tᴇᴄʜ sᴛᴀᴄᴋ</h2> 
