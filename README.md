@@ -25,13 +25,6 @@ I wield a diverse set of tools to create digital magic:
   <li>Exploring advanced React.js patterns and state management techniques.</li>
   <li>Improving my skills in cloud computing with AWS and Azure.</li>
 </ul>
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
 
 My favorite tools!
 
