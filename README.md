@@ -1,15 +1,12 @@
 <p align="center">
-  <img src="./stars.gif" alt="Header" />
+  <img src="./nature.gif" alt="Header" />
 </p>
 
 I'm Mirlan, a passionate Computer Science Undergraduate with a love for coding, creating apps, managing projects and turning an idea to something ✨ _special_ ✨
 
-📚 My Education 
+<h3 align="left">📚 My Education</h3>
 * Bachelor of Science, Computer Science
  * _California State University Long Beach_
-
-💻 Tech I work on
-I wield a diverse set of tools to create digital magic:
 
 <!--Languages and Tools Section-->       
 <h2 align="center">Tᴇᴄʜ sᴛᴀᴄᴋ</h2> 
