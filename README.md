@@ -25,12 +25,16 @@ I wield a diverse set of tools to create digital magic:
   <li>Exploring advanced React.js patterns and state management techniques.</li>
   <li>Improving my skills in cloud computing with AWS and Azure.</li>
 </ul>
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
 
-<br />
-<br />
-<br />
-<br />
 My favorite tools!
+
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
