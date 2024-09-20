@@ -1,4 +1,4 @@
-![Header](./coding1.gif)
+![Header](./stars.gif)
 
 I'm Mirlan, a passionate Computer Science Undergraduate with a love for coding, creating apps, managing projects and turning an idea to something ✨ _special_ ✨
 
@@ -36,6 +36,7 @@ My favorite tools!
 <br />
 <br />
 <br />
+
 Fun Fact: I love biking or playing chess!
 When I'm not coding or enhancing my skills, you'll find me travelling on my bike and playing chess.
 
