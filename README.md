@@ -1,4 +1,4 @@
-![Header](./coding.gif)
+![Header](./coding1.gif)
 
 I'm Mirlan, a passionate Computer Science Undergraduate with a love for coding, creating apps, managing projects and turning an idea to something ✨ _special_ ✨
 
