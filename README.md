@@ -1,9 +1,10 @@
 <p align="center">
-  <img src="./github-banner.png" alt="Header" />
+  <img src="./train.gif" alt="Header" />
 </p>
 
-<h2 align="left">Hello! Welcome to my GitHub!</h2>
-My name is Mirlan Boroshilov. I am a passionate Computer Science Undergraduate with a love for coding, creating apps, managing projects and turning an idea to something ✨special✨
+<h2 align="left">Thanks for stopping by!</h2>
+
+Hi, I'm Mirlan Boroshilov, a passionate Computer Science undergraduate with a deep love for coding, app development, and project management. I thrive on turning creative ideas into ✨something special✨, whether it’s building apps or tackling technical challenges. Always eager to learn and innovate!
 
 <h2 align="left">📚 My Education</h2>
 Bachelor of Science, Computer Science - California State University Long Beach
