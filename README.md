@@ -2,7 +2,7 @@
   <img src="./train.gif" alt="Header" />
 </p>
 
-<h2 align="left">Thanks for stopping by!</h2>
+<h2 align="center">Thanks for stopping by!</h2>
 
 Hi, I'm Mirlan Boroshilov, a passionate Computer Science undergraduate with a deep love for coding, app development, and project management. I thrive on turning creative ideas into ✨something special✨, whether it’s building apps or tackling technical challenges. Always eager to learn and innovate!
 
